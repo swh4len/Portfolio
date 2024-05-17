@@ -1,1 +1,1 @@
-The "Analytics Report on Salary Prediction" was an analysis I chose to run using the "Salary Dataset" file to determine whether or not there were predictors of salary within the sample data.
+The "Visualization Project BNAL 403" file contains a Tableau Storyboard outlining the analysis of the superstore sample data with text bubbles for detailed info not found in the written report.

@@ -1,2 +1,1 @@
-The file "Project Instructions" outlines the assignment requiring the cleaning and analyses of data derived from the files entitled "STIHLDelivery-1" and "Zip to Zip Distance Table".
-This was a group project in which I contributed to the Descriptive Analyses showcased on pages four through nine of the file "Logistics Analyses Project".
+The "Analytics Report on Salary Prediction" was an analysis I chose to run using the "Salary Dataset" file to determine whether or not there were predictors of salary within the sample data.
